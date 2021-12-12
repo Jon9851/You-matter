@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/8f8d6e0652.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+
+</head>
+<div class="nav">
+ <header>You<span>Matter</span>
+ 
+</header>
+    <nav>
+    
+<ul>
+        <li><a href="index.html">Home</a> <i class="fas fa-home"></i></li>
+        <li><a href="log-in.html">Sign up</a> <i class="fas fa-sign-in-alt"></i> </li>
+        <li><a href="our-facilities.html">Our Facilities</a > <i class="fas fa-dumbbell"></i> </li>
+        <li><a href="talk.html">Talk To US</a> <i class="fas fa-user-friends"></i></li>
+   </ul>
+
+
+    
+
+    </nav>
+    
+   </div>
+
+
+
+<body>
+
+    <h5>Talk To Us As You Matter</h5>
+    <section>
+        <div class="steps">
+        <p>Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices.<br> Mental health is important at every stage of life, from childhood and adolescence through adulthood. mentalhealth.gov
+
+            <br>Recovery: Four major dimensions support a life in recovery:
+            <br>1. Health: Make informed, healthy choices that support physical and emotional well-being.
+           <br>2. Home: It is important to have a stable and safe place to live.
+            <br>3. Purpose: Engage in meaningful daily activities, such as a job or school,volunteering, caring for your family, or being creative.
+             <br>5.Work for independence, income, and resources to participate in society.
+            <br>6.. Community: Build relationships and social networks that provide support.</p>
+            <div id="types">
+            <h6>Different Types Of Metal Health</h6>
+            <p><span>Depression</span>
+                In order to be diagnosed with major depression, the individual must feel depressed for most of the day and for most days over at least a two-week time period. Additionally, they may experience symptoms such as changes in appetite and weight, irritability, loss of interest and motivation for their usual activities, hopelessness, and in some cases thoughts, plans or attempts to cause harm to themselves. Some women may experience depression after having a child, in which case it is called postpartum depression. The duration of postpartum depression can vary from weeks to months.
+                Dysthymia: In general, symptoms of dysthymia are milder compared to the symptoms of major depression. The symptoms of dysthymia usually continue consistently for more than one year in young adults and children, and for over two years in adults.
+                Bipolar disorder: In the United States, over 1% of adults or up to 4 million people have been diagnosed with bipolar disorder. Bipolar disorder is sometimes referred to as manic depression. It is characterized by extreme changes in mood, recurring depressive episodes, and at least a single manic episode.</p>
+            <p><span>Anxiety Disorders</span> In the patients diagnosed with an anxiety disorder, he/she must be unable to respond appropriately to situations, they are unable to control their response, or their anxiety gets in the way of their normal day-to-day functions. Anxiety disorders manifest as fear and trepidation, as well as physical signs of uneasiness and anxiety that are characterized by an increased heart rate and perspiration. Anxiety disorders are further categorized based on their triggers. GAD (generalized anxiety disorder), PTSD (post-traumatic stress disorder), OCD (obsessive compulsive disorder), social anxiety disorder, panic disorder, and phobias are a few types of anxiety disorders. Some of these anxiety disorders are explored in detail below.Phobias: Phobia is the term used to describe an irrational and extreme fear of a situation or an object. There are many types of phobias, including the fear of spiders (arachnophobia), the fear of being up high (acrophobia), the fear of being away from home (agoraphobia), etc.
+                Social anxiety disorder: The fear of being involved in social interactions is characteristic of social anxiety disorders. A good example of this is when a person has to give a speech.
+                Generalized anxiety disorder (GAD): About 10% of the population suffers from GAD, making it a commonly diagnosed anxiety disorder. People suffering with this disorder tend to be extreme worriers about multiple aspects of their lives, such as their family, money, and their future. They may also have non-specific worries and anxieties.
+                Panic disorder: Panic disorders are typified by frequent episodes of severe, unexpected, incapacitating anxiety attacks, also known as panic attacks. These panic attacks may include symptoms such as an accelerated heart beat, breathlessness, nausea, and an inability to think clearly. The diagnosis of panic disorder is dependent upon the person who may be worried about experiencing a panic attack or worried about the panic attack being the symptoms of a medical condition, like a heart attack.</p>
+            <div id="nhs">
+                <p> These are just two expamles of mental health if you wish to find out more on mental health please use the link below for more information. <a href="https://www.nhs.uk/mental-health/" target="_blank" rel="noopener">NHS/Mental Health</a>
+                </p>
+            </div>
+        </div>
+        </div>
+
+           
+
+
+
+
+
+    </section>
+
+    <footer>
+        <div class="soc">
+            <a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook-square"></i></a>
+            <a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+        </div>
+        
+
+
+    </footer>
+    
+
+    
+</body>
+</html>
