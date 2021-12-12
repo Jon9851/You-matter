@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/8f8d6e0652.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+
+</head>
+<div class="nav">
+ <header>You<span>Matter</span>
+ 
+</header>
+    <nav>
+    
+<ul>
+        <li><a href="index.html">Home</a> <i class="fas fa-home"></i></li>
+        <li><a href="log-in.html">Sign up</a> <i class="fas fa-sign-in-alt"></i> </li>
+        <li><a href="our-facilities.html">Our Facilities</a > <i class="fas fa-dumbbell"></i> </li>
+        <li><a href="talk.html">Talk To US</a> <i class="fas fa-user-friends"></i></li>
+   </ul>
+    </nav>
+    
+   </div>
+
+
+
+<body>
+    <section id="photo">
+
+    
+    
+        <img src="https://i.postimg.cc/Fsxz19kM/spinning.jpg">
+        <img src="https://i.postimg.cc/R0tz6RbW/boxing.jpg">
+        <img src="https://i.postimg.cc/rwdB3jTf/weight.jpg">
+        <img src="https://i.postimg.cc/1zwL5zf6/yoga.jpg">
+        <img src="https://i.postimg.cc/bY34vWN6/ym2.jpg">
+        <img src="https://i.postimg.cc/d17yYfqS/cardio.jpg">
+        <img src="https://i.postimg.cc/VNhJDFj9/locker.jpg">
+        <img src="https://i.postimg.cc/fRTksPCj/drinks.jpg">
+        <img src="https://i.postimg.cc/4NyrTbtH/carpark.jpg">
+
+
+
+    </section>
+<footer class="soc">
+   
+    <a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook-square"></i></a>
+	<a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+
+
+
+</footer>
+    
+</body>
+</html>
