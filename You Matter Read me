@@ -1,0 +1,41 @@
+Read Me
+You Matter is a gym/ wellness centre, where you can train your body and mind.
+The milestone project contains 5 different files of code, each containing to the individual .html files.
+Licensed and copyright
+Jonathan Cohen, You Matter, South Devon college.
+Index.html
+Header/Nav Bar 
+1: The first lines of code deal with the nav bar and the gyms name as well as the image background and gives the opening times for the gym. 
+2: Each link in the nav bar is fully working and directs you to different pages on the milestone projects. Each link also has icons displayed next to them on the nav bar. 
+3. There are some bugs on the nav bar on small screen sizes, so I disabled them to when you go below 500px as the alignment wasn’t working.
+4: font awesome was used for the icons. 
+The nav bar was designed by using html links and css.
+
+Section
+1: Login page which directs you back to the main page of the project. This includes a username and password and a submit button.
+2: There four images with text on the right-hand side of them with a brief description and times of the individual classes offered.
+3: The final part is of the section gives the price of the gym membership, which includes a submit button named sign up which directly takes you to the log in. html file on the project.
+4: Includes a map and address off the gym.
+5: Goole fonts used for the font text of the whole page. 
+
+Footer 
+The footer is the same on all the 4 four pages of the web site.
+1: social media links which takes you to the corresponding sites.
+2: These are displayed in icons instead of texts.
+
+
+
+Sign up.html
+This page is a sign-up page for the website which in includes names and input section as well as submit button once your details have been inputted.
+1: labels and input were used to create the basic structure for this.
+2: Each label has instructions on what information need to be entered once you have filled out the forms.
+3: submit button takes you back to the top of the page once you have entered your details.
+Css was used to create the design of the page. Rgba colours border radius, px and % helped with width and height of the boxes. 
+Our facilities 
+This a basic page with pictures used to show what gym has to offer. All images where taken form unspalsh a free imaging website.
+
+Talk.html 
+Talk is a text page where you can read up on mental health. The page has two examples of mental health as well as 5 step guide, used to help people suffering from on their recovery journey.
+The page also contains a direct link to the NHS website for anyone who wish to view the different types of mental health. 
+
+
